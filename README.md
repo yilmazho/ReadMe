@@ -34,12 +34,14 @@
 
 <img align="left" alt="JavaScript" height="20px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=white" style="max-width: 100%;">
 
+</br> </br>
+
 <img align="left" alt="Docker" height="20px" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" style="max-width: 100%;">
 
 <img align="left" alt="Bootstrap" height="20px" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&amp;logo=bootstrap&amp;logoColor=white" style="max-width: 100%;">
 
 <img align="left" alt="MsSql" height="20px" src="https://img.shields.io/badge/MsSql-CC2927?style=flat-square&amp;logo=mssql&amp;logoColor=white" style="max-width: 100%;">
-</br> </br>
+
 
 <img align="left" alt=".Net" height="20px" src="https://img.shields.io/badge/.Net-512BD4?style=flat-square&amp;logo=.net&amp;logoColor=white" style="max-width: 100%;">
 
@@ -48,6 +50,7 @@
 <img align="left" alt="Swagger" height="20px" src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&amp;logo=swagger&amp;logoColor=white" style="max-width: 100%;">
 
 <img align="left" alt="Postman" height="20px" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&amp;logo=postman&amp;logoColor=white" style="max-width: 100%;">
+</br> </br>
 
 <img align="left" alt="Redis" height="20px" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&amp;logo=redis&amp;logoColor=white" style="max-width: 100%;">
 
